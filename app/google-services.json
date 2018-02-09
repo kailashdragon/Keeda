@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1004386503296",
+    "firebase_url": "https://keeda-70127.firebaseio.com",
+    "project_id": "keeda-70127",
+    "storage_bucket": "keeda-70127.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004386503296:android:4cbc5ecd00ea2ffc",
+        "android_client_info": {
+          "package_name": "com.example.kailashpatel.keeda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004386503296-nevbn6fc9hm0hsd8cgssknahtfl674ap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kailashpatel.keeda",
+            "certificate_hash": "2178ae193403d5181ff9eee5f245f67d951b4ad9"
+          }
+        },
+        {
+          "client_id": "1004386503296-slksr2ve1cchfpd3vugtou10qdqi7b1h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kailashpatel.keeda",
+            "certificate_hash": "05a92785c1d3b36913cb11b0315cd63deef08fd3"
+          }
+        },
+        {
+          "client_id": "1004386503296-vu9c1f82p95kn7kdi5n3p4n8e59gm6ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSA8odQmyKGw1okZuLOjypsflhkfwDZTs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004386503296-vu9c1f82p95kn7kdi5n3p4n8e59gm6ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
